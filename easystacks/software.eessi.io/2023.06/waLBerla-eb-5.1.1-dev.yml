@@ -1,9 +1,0 @@
-easyconfigs:
-  - lbmpy-1.3.7-foss-2023b.eb:
-      options:
-        # see https://github.com/easybuilders/easybuild-easyconfigs/pull/23157
-        from-commit: a24d2bf106f7e0c6811e1e77e377acf16393ea11   
-  - py-cpuinfo-9.0.0-GCCcore-13.2.0.eb
-  - waLBerla-6.1-codegen-software-commit.eb:
-      options:
-        software-commit: 30c48304ca0c5e6600ec6729cddb11588f0278f5 
